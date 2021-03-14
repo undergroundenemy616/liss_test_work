@@ -26,6 +26,10 @@
     
     ```source venv/bin/activate```
     
-3. Запустить скрипт:
+3. Установить необходимые зависимости командой:
+    
+    ```pip install -r requirements.txt```
+    
+4. Запустить скрипт:
     
     ```sh activate.sh```
